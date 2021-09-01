@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of mango-lib
+ */
+export * from './lib/mango-lib.service';
+export * from './lib/mango-lib.component';
+export * from './lib/mango-lib.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21hbmdvLWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLHdCQUF3QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBtYW5nby1saWJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYW5nby1saWIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYW5nby1saWIuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21hbmdvLWxpYi5tb2R1bGUnO1xuIl19
